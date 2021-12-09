@@ -1,3 +1,4 @@
-a = 2
-b = 2
-print(a+b)
+def suma(a,b):
+    return a+b
+
+print(suma(2,2))
